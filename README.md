@@ -78,6 +78,9 @@ Make sure you always have plenty of the following ingredients.
 * Sauce pan
 * Baking tin *(Lazy sourdough bread)*
 * Pie mold *(Satay veggie pie)*
+* Oven *(Lazy sourdough bread)*
+* Microwave *()*
+* Stove *(all recipes)*
 
 
 # Elemental Recipes
