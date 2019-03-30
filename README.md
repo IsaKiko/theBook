@@ -1,3 +1,9 @@
+# theBook
+- [x] Vegan
+- [x] Cheap
+- [x] Quick
+- [x] Healthy (enough)
+
 ##### Table of Contents  
 * [Ingredients](#ingredients)  
   * [Canned Things](#canned-things)  
@@ -26,15 +32,7 @@
   * [Pan cakes](#pan-cakes)
   * [Oats with berries](#oats-with-berries)
 
-
-
-# theBook
-- [x] Vegan
-- [x] Cheap
-- [x] Quick
-- [x] Healthy (enough)
-
-# Ingredients
+## Ingredients
 Make sure you always have plenty of the following ingredients. 
 
 ### Canned things
@@ -72,7 +70,7 @@ Make sure you always have plenty of the following ingredients.
 ### Random things
 * Sourdough starter *(Lazy sourdough bread)*
 
-# Equipment
+## Equipment
 * Pan *(Satay sauce)* 
 * Pot
 * Sauce pan
@@ -83,10 +81,10 @@ Make sure you always have plenty of the following ingredients.
 * Stove *(all recipes)*
 
 
-# Elemental Recipes
+## Elemental Recipes
 
-## Satay Sauce
-### Ingredients
+### Satay Sauce
+#### Ingredients
 * 1 tea spoon **vegetable oil** 
 * 3 generous table spoons **natural peanut butter (low sugar and sodium)** 
 * 1 can **light coconut milk** 
@@ -99,47 +97,50 @@ Make sure you always have plenty of the following ingredients.
 * 1/2 tea spoon **cinnemon**
 * 1/2 tea spoon **cumin**
 
+#### Instructions
 1. Heat oil in pan, add **garlic**, **ginger**, **chilli flakes**, **tumeric**, **cinemon**, and **cumin**. Fry for a couple of minutes until it smells nice. 
 1. Add **coconut milk** and **peanut butter**. Let simmer. 
 1. Finish with **soy sauce** or **salt** and **vinegar**. If it's too thick, add more water.
 
-## Lazy sourdough bread
-### Ingredients
+### Lazy sourdough bread
+#### Ingredients
 * 50g sourdough starter 
 * 300g white flour
 * 200g whole-wheat flour
 
+#### Instructions
 1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
 1. Stir in **all of the remaining flour** and **300g of water**. Mix with a spoon and place it into the baking tin. Let rest for another hour or two. 
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
 
 
-# Dips
+## Dips
 
-## Hummous 
+### Hummus 
 
-## Lentil hummus
+### Lentil hummus
 
-## Chilli hummus
+### Chilli hummus
 
-## Sun-dried tomato dip
+### Sun-dried tomato dip
 
 
-# Meals 
+## Meals 
 
-## Satay Veggies
-### Ingredients
+### Satay Veggies
+#### Ingredients
 * One serving of satay sauce
 * Half a bag of cauliflour
 * One can of corn 
 
+#### Instructions
 1. Make satay sauce.
 1. Thaw cauliflour in microwave (for roughly 2 minutes) or boil in water (also roughly 2 minutes).
 1. Mix everything in pan until hot.
 
 
-## Satay Veggie Pasta
-### Ingredients
+### Satay Veggie Pasta
+#### Ingredients
 * One serving of satay veggies 
 * Pasta
 
@@ -147,11 +148,12 @@ Make sure you always have plenty of the following ingredients.
 1. Make pasta.
 1. Mix.
 
-## Satay Veggie Pie
-### Ingredients
+### Satay Veggie Pie
+#### Ingredients
 * One serving of satay veggies 
 * 2 sheets of puff pastry 
 
+#### Instructions
 1. Make satay veggies. 
 1. Thaw **2 sheets of puff pastry**.
 1. Lay one sheet of pastry in the bottom of the mold. 
@@ -162,34 +164,35 @@ Make sure you always have plenty of the following ingredients.
 1. Bake at 180 degrees celsius for 23 minutes.
 
 
-## Uni-Pot
+### Uni-Pot
 
 
-## Broccoli with lemon
+### Broccoli with lemon
 
 
-## Spaghetti Bolognese
+### Spaghetti Bolognese
 
 
-## Cous Cous Salad
+### Cous Cous Salad
 
 
-## Mashed potato
+### Mashed potato
 
 
-## Pan cakes 
-### Ingredients
+### Pan cakes 
+#### Ingredients
 * Sourdough starter
 * Flour
 
 
-## Oats with berries
-### Ingredients
+### Oats with berries
+#### Ingredients
 * Rolled oats
 * 2 table spoons of frozen berries
 * Soy milk 
 * Cinnemon
 
+#### Instructions
 1. Fill breakfast bowl with **rolled oats**.
 1. Add **frozen berries** and **soy milk**.
 1. Microwave for roughly 1 minute 20 seconds. 
