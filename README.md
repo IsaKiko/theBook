@@ -9,12 +9,15 @@ Make sure you always have plenty of the following ingredients.
 * Light coconut milk *(Satay sauce)*
 * Canned diced tomatoes
 * Canned lentils
+* Canned beans
 * Canned peas
-* Canned ...
+* Canned corn
 
 ### Frozen things
 * Frozen cauliflower 
-* Frozen
+* Frozen broccoli
+* Frozen brussles sprouts
+* Puff pastry (the cheap one is likely vegan) 
 
 ### Saucy things
 * Vegetable oil *(Satay sauce)*
@@ -26,7 +29,7 @@ Make sure you always have plenty of the following ingredients.
 * White flour *(Lazy sourdough bread)*
 * Whole-wheat flour *(Lazy sourdough bread)*
 
-### Spices
+### Spice things
 * Minced garlic in a glass *(Satay sauce)* 
 * Minced Ginger in a glass *(Satay sauce)*
 * Chilli flakes in oil *(Satay sauce)*
@@ -35,16 +38,17 @@ Make sure you always have plenty of the following ingredients.
 ### Random things
 * Sourdough starter *(Lazy sourdough bread)*
 
-# Appliances
+# Equipment
 * Pan *(Satay sauce)* 
 * Pot
 * Sauce pan
 * Baking tin *(Lazy sourdough bread)*
+* Pie mold *(Satay veggie pie)*
 
 
-# Recipes
+# Elemental Recipes
 
-## Satay Sauce 
+## Satay Sauce
 ### Ingredients
 * 1 tea spoon **vegetable oil** 
 * 3 generous table spoons **natural peanut butter (low sugar and sodium)** 
@@ -63,7 +67,50 @@ Make sure you always have plenty of the following ingredients.
 1. Finish with **soy sauce** or **salt** and **vinegar**. If it's too thick, add more water.
 
 
+# Dips 
+
+
+# Meals 
+
+## Satay Veggies
+### Ingredients
+* One serving of satay sauce
+* Half a bag of cauliflour
+* One can of corn 
+
+1. Make satay sauce.
+1. Thaw cauliflour in microwave (for roughly 2 minutes) or boil in water (also roughly 2 minutes).
+1. Mix everything in pan until hot.
+
+
+## Satay Veggie Pasta
+### Ingredients
+* One serving of satay veggies 
+* Pasta
+
+1. Make satay veggies. 
+1. Make pasta.
+1. Mix.
+
+## Satay Veggie Pie
+### Ingredients
+* One serving of satay veggies 
+* 2 sheets of puff pastry 
+
+1. Make satay veggies. 
+1. Thaw **2 sheets of puff pastry**.
+1. Lay one sheet of pastry in the bottom of the mold. 
+1. Cut out of the other sheet the largest circle you can (i.e. cut off the 4 corners).
+1. Use the cut-offs to fill in any gaps between the first sheet in the bottom of the mold and the rim of the mold.
+1. Fill pie with satay veggies and cover with large circle.
+1. If you want the pie to go brown, rub some maple syrup onto it.
+1. Bake at 180 degrees celsius for 23 minutes.
+
+
 ## Uni-Pot
+
+
+## Broccoli with lemon
 
 
 ## Spaghetti Bolognese
@@ -81,3 +128,5 @@ Make sure you always have plenty of the following ingredients.
 1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
 1. Stir in **all of the remaining flour** and **300g of water**. Mix with a spoon and place it into the baking tin. Let rest for another hour or two. 
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
+
+
