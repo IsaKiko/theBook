@@ -1,9 +1,38 @@
+##### Table of Contents  
+* [Ingredients](#ingredients)  
+  * [Canned Things](#canned-things)  
+  * [Frozen Things](#frozen-things)  
+  * [Saucy Things](#saucy-things)  
+  * [Dried Things](#dried-things)  
+  * [Spice Things](#spice-things)  
+  * [Random Things](#random-things)  
+* [Elemental Recipes](#elemental-recipes)  
+  * [Lazy Sourdough Bread](#lazy-sourdough-bread)
+  * [Satay Sauce](#satay-sauce)
+* [Dips](#dips)
+  * [Hummus](#hummus)
+  * [Lentil hummus](#lentil-hummis)
+  * [Chilli hummus](#chilli-hummus)
+  * [Sun-dried tomato dip](#sun-dried-tomato-dip)
+* [Meals](#meals)
+  * [Satay Veggies](#satay-veggies)
+  * [Satay Veggie Pasta](#satay-veggie-pasta)
+  * [Satay Veggie Pie](#satay-veggie-pie)
+  * [Uni-Pot](#uni-pot)
+  * [Broccoli with lemon](#broccoli-with-lemon)
+  * [Spaghetti Bolognese](#spaghetti-bolognese)
+  * [Cous Cous Salad](#cous-cous-salad)
+  * [Mashed (sweet) potato](#mashed-potato)
+  * [Pan cakes](#pan-cakes)
+  * [Oats with berries](#oats-with-berries)
+
+
+
 # theBook
 - [x] Vegan
 - [x] Cheap
 - [x] Quick
 - [x] Healthy (enough)
-
 
 # Ingredients
 Make sure you always have plenty of the following ingredients. 
@@ -86,9 +115,9 @@ Make sure you always have plenty of the following ingredients.
 
 ## Hummous 
 
-## Lentil hummous
+## Lentil hummus
 
-## Chilli hummous
+## Chilli hummus
 
 ## Sun-dried tomato dip
 
@@ -142,7 +171,7 @@ Make sure you always have plenty of the following ingredients.
 ## Cous Cous Salad
 
 
-## Mashed (sweet) potato
+## Mashed potato
 
 
 ## Pan cakes 
