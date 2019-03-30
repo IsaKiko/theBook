@@ -1,4 +1,8 @@
 # theBook
+- [x] Vegan
+- [x] Cheap
+- [x] Quick
+- [x] Healthy (enough)
 
 
 # Ingredients
@@ -25,9 +29,10 @@ Make sure you always have plenty of the following ingredients.
 * Soy sauce *(Satay sauce)*
 
 ### Dried things
-* Your favourite pasta
+* Your favourite kind of dried pasta
 * White flour *(Lazy sourdough bread)*
 * Whole-wheat flour *(Lazy sourdough bread)*
+* Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
 
 ### Spice things
 * Minced garlic in a glass *(Satay sauce)* 
@@ -66,8 +71,26 @@ Make sure you always have plenty of the following ingredients.
 1. Add **coconut milk** and **peanut butter**. Let simmer. 
 1. Finish with **soy sauce** or **salt** and **vinegar**. If it's too thick, add more water.
 
+## Lazy sourdough bread
+### Ingredients
+* 50g sourdough starter 
+* 300g white flour
+* 200g whole-wheat flour
 
-# Dips 
+1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
+1. Stir in **all of the remaining flour** and **300g of water**. Mix with a spoon and place it into the baking tin. Let rest for another hour or two. 
+1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
+
+
+# Dips
+
+## Hummous 
+
+## Lentil hummous
+
+## Chilli hummous
+
+## Sun-dried tomato dip
 
 
 # Meals 
@@ -119,14 +142,23 @@ Make sure you always have plenty of the following ingredients.
 ## Cous Cous Salad
 
 
-## Lazy sourdough bread
+## Mashed (sweet) potato
+
+
+## Pan cakes 
 ### Ingredients
-* 50g sourdough starter 
-* 300g white flour
-* 200g whole-wheat flour
-
-1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
-1. Stir in **all of the remaining flour** and **300g of water**. Mix with a spoon and place it into the baking tin. Let rest for another hour or two. 
-1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
+* Sourdough starter
+* Flour
 
 
+## Oats with berries
+### Ingredients
+* Rolled oats
+* 2 table spoons of frozen berries
+* Soy milk 
+* Cinnemon
+
+1. Fill breakfast bowl with **rolled oats**.
+1. Add **frozen berries** and **soy milk**.
+1. Microwave for roughly 1 minute 20 seconds. 
+1. Add cinnemon.
