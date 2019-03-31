@@ -29,7 +29,7 @@
   * [Spaghetti Bolognese](#spaghetti-bolognese)
   * [Cous Cous Salad](#cous-cous-salad)
   * [Mashed (sweet) potato](#mashed-potato)
-  * [Pan cakes](#pan-cakes)
+  * [Pancakes with berries](#pancakes-with-berries)
   * [Oats with berries](#oats-with-berries)
 
 ## Ingredients
@@ -49,6 +49,7 @@ Make sure you always have plenty of the following ingredients.
 * Frozen broccoli
 * Frozen brussles sprouts
 * Puff pastry (the cheap one is likely vegan) 
+* Frozen berries
 
 ### Saucy things
 * Vegetable oil *(Satay sauce)*
@@ -179,10 +180,18 @@ Make sure you always have plenty of the following ingredients.
 ### Mashed potato
 
 
-### Pan cakes 
+### Pancakes with berries 
 #### Ingredients
-* Sourdough starter
-* Flour
+* 100g sourdough starter
+* 100g whole-wheat flour
+* Some frozen berries
+* Sugar to taste
+* Some vegetable oil for frying
+
+1. Mix **sourdough starter** with **whole-wheat flour** and **200g water**.
+1. Add **sugar** to taste.
+1. Heat up **berries** in a sauce pan, add **sugar** to taste. 
+1. Fry pancakes in a pan with some **oil**.
 
 
 ### Oats with berries
