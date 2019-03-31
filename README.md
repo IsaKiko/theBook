@@ -61,12 +61,16 @@ Make sure you always have plenty of the following ingredients.
 * White flour *(Lazy sourdough bread)*
 * Whole-wheat flour *(Lazy sourdough bread)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
+* Sugar *()*
 
 ### Spice things
 * Minced garlic in a glass *(Satay sauce)* 
 * Minced Ginger in a glass *(Satay sauce)*
 * Chilli flakes in oil *(Satay sauce)*
-* 
+* Cumin *()*
+* Cinnemon *()*
+* Paprika *()*
+* Tumeric *()*
 
 ### Random things
 * Sourdough starter *(Lazy sourdough bread)*
