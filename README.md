@@ -62,6 +62,7 @@ Make sure you always have plenty of the following ingredients.
 * Whole-wheat flour *(Lazy sourdough bread)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
 * Sugar *()*
+* Salt *(Anything - to taste)*
 
 ### Spice things
 * Minced garlic in a glass *(Satay sauce)* 
@@ -180,7 +181,7 @@ Make sure you always have plenty of the following ingredients.
 * vegetable oil for frying
 * 3 table spoons of paprika
 * 2 tea spoons spoon of cumin
-* 2 tea spoons of oregano
+* 3 table spoons of oregano
 * 4 cans of chopped tomatoes
 * 1 can lentils
 * 1 can beans
