@@ -68,7 +68,7 @@ Make sure you always have plenty of the following ingredients.
 * Minced Ginger in a glass *(Satay sauce)*
 * Chilli flakes in oil *(Satay sauce)*
 * Cumin *()*
-* Cinnemon *()*
+* Cinnamon *()*
 * Paprika *()*
 * Tumeric *()*
 
@@ -84,6 +84,9 @@ Make sure you always have plenty of the following ingredients.
 * Oven *(Lazy sourdough bread)*
 * Microwave *()*
 * Stove *(all recipes)*
+* Can opener
+* Sieve
+
 
 
 ## Elemental Recipes
@@ -99,7 +102,7 @@ Make sure you always have plenty of the following ingredients.
 * 1 table spoon **soy sauce** or some **salt** 
 * 1 tea spoon **white wine vinegar**
 * 1 tea spoon **tumeric**
-* 1/2 tea spoon **cinnemon**
+* 1/2 tea spoon **cinnamon**
 * 1/2 tea spoon **cumin**
 
 #### Instructions
@@ -170,7 +173,28 @@ Make sure you always have plenty of the following ingredients.
 
 
 ### Uni-Pot
+#### Ingredients
+* 4 tea spoons of minced garlic 
+* 1 tea spoon of minced ginger
+* chili to taste
+* vegetable oil for frying
+* 3 table spoons of paprika
+* 2 tea spoons spoon of cumin
+* 2 tea spoons of oregano
+* 4 cans of chopped tomatoes
+* 1 can lentils
+* 1 can beans
+* 1 can sliced green beans 
+* 500g frozen cauliflour
+* salt to taste
 
+#### Instructions
+1. Fry **garlic**, **ginger**, and **chili** in a large pot in some **vegetable oil**.
+1. Add **paprika** and **cumin** and keep frying until it smells nice. 
+1. Add **chopped tomatoes**.
+1. Thaw **cauliflour** in microwave or heat it up in some water in a sauce pan to thaw. Then use a knife or some scissors to cut it into edible little pieces.
+1. Drain and rinse **canned veggies** and add **all veggies** to the pot. Let simmer until your hungry. 
+1. Add **oregano** 5 minutes before you want to eat. Much longer might turn it bitter. 
 
 ### Broccoli with lemon
 
@@ -203,10 +227,10 @@ Make sure you always have plenty of the following ingredients.
 * Rolled oats
 * 2 table spoons of frozen berries
 * Soy milk 
-* Cinnemon
+* Cinnamon
 
 #### Instructions
 1. Fill breakfast bowl with **rolled oats**.
 1. Add **frozen berries** and **soy milk**.
 1. Microwave for roughly 1 minute 20 seconds. 
-1. Add cinnemon.
+1. Add cinnamon.
