@@ -121,7 +121,7 @@ Make sure you always have plenty of the following ingredients.
 1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
 1. Stir in **all of the remaining flour** and **300g of water**. Mix with a spoon and place it into the baking tin. Let rest for another hour or two. 
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
-
+1. If you don't want to finish a whole bread at once, slice it up and freeze the slices. One quick round in the toaster and the bread tastes nice and fresh. 
 
 ## Dips
 
