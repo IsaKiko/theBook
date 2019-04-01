@@ -196,6 +196,7 @@ Make sure you always have plenty of the following ingredients.
 1. Thaw **cauliflour** in microwave or heat it up in some water in a sauce pan to thaw. Then use a knife or some scissors to cut it into edible little pieces.
 1. Drain and rinse **canned veggies** and add **all veggies** to the pot. Let simmer until your hungry. Simmering for longer makes it sweeter and thicker. 
 1. Add **oregano** 5 minutes before you want to eat. Much longer might turn it bitter. 
+1. Tastes nice with some **lazy sourdough bread**.
 
 ### Broccoli with lemon
 
