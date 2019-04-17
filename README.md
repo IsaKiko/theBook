@@ -228,14 +228,14 @@ Make sure you always have plenty of the following ingredients.
 
 ### Oats with berries
 #### Ingredients
-* Rolled oats
+* Rolled or quick oats
 * 2 table spoons of frozen berries
 * Soy milk 
 * Cinnamon
 
 #### Instructions
-1. Fill breakfast bowl with **rolled oats**.
-1. Add **frozen berries** and **soy milk**.
+1. Put **frozen berries** small bowl or mug and microwave for roughly 40 seconds.
+1. Layer **oats** and warm berries by filling half of a breakfast bowl with **oats**, adding warm berries, then filling the bowl with more **oats**.  Add **soy milk** to the bowl until you can see the level of milk just below the top of the oats. 
 1. Microwave for roughly 1 minute 20 seconds. 
 1. Add cinnamon.
 
