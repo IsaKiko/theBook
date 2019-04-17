@@ -31,6 +31,8 @@
   * [Mashed (sweet) potato](#mashed-potato)
   * [Pancakes with berries](#pancakes-with-berries)
   * [Oats with berries](#oats-with-berries)
+* [Snacks](#snacks)
+  * [Almost bruschetta](#almost-bruschetta)
 
 ## Ingredients
 Make sure you always have plenty of the following ingredients. 
@@ -236,3 +238,23 @@ Make sure you always have plenty of the following ingredients.
 1. Add **frozen berries** and **soy milk**.
 1. Microwave for roughly 1 minute 20 seconds. 
 1. Add cinnamon.
+
+
+## Snacks
+
+### Almost bruschetta 
+#### Ingredients
+* 3 table spoons of oil
+* 3 teaspoons minced garlic
+* 4 slices of bread
+* One can of diced tomatoes
+* 1/2 teaspoon of cinnamon
+* Salt to taste
+
+#### Instructions
+1. Fry **2 teaspoons of garlic** in **oil** until it starts turing brown.
+1. Add **bread slices** and toast them from both sides.
+1. Remove bread, add another **teaspoon of garlic** to the pan, add **tomatoes**, **cinnamon**, and **salt to taste**.
+1. After about 3 minutes, pour tomatoe sauce over bread slices.
+
+
