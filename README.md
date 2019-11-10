@@ -17,22 +17,23 @@
   * [Satay Sauce](#satay-sauce)
 * [Dips](#dips)
   * [Hummus](#hummus)
-  * [Lentil hummus](#lentil-hummis)
-  * [Chilli hummus](#chilli-hummus)
-  * [Sun-dried tomato dip](#sun-dried-tomato-dip)
+  * [Lentil Hummus](#lentil-hummis)
+  * [Chilli Hummus](#chilli-hummus)
+  * [Sun-dried Tomato Dip](#sun-dried-tomato-dip)
 * [Meals](#meals)
   * [Satay Veggies](#satay-veggies)
   * [Satay Veggie Pasta](#satay-veggie-pasta)
   * [Satay Veggie Pie](#satay-veggie-pie)
   * [Uni-Pot](#uni-pot)
-  * [Broccoli with lemon](#broccoli-with-lemon)
+  * [Broccoli with Lemon](#broccoli-with-lemon)
   * [Spaghetti Bolognese](#spaghetti-bolognese)
   * [Cous Cous Salad](#cous-cous-salad)
-  * [Mashed (sweet) potato](#mashed-potato)
-  * [Pancakes with berries](#pancakes-with-berries)
-  * [Oats with berries](#oats-with-berries)
+  * [Mashed (Sweet) Potato](#mashed-potato)
+  * [Pancakes with Berries](#pancakes-with-berries)
+  * [Oats with Berries](#oats-with-berries)
 * [Snacks](#snacks)
-  * [Almost bruschetta](#almost-bruschetta)
+  * [Almost Bruschetta](#almost-bruschetta)
+  * [Roti with Satay](#roti-with-satay)
 
 ## Ingredients
 Make sure you always have plenty of the following ingredients. 
@@ -50,18 +51,18 @@ Make sure you always have plenty of the following ingredients.
 * Frozen cauliflower 
 * Frozen broccoli
 * Frozen brussles sprouts
-* Puff pastry (the cheap one is likely vegan) 
+* Puff pastry (the cheap one is likely vegan) *(Roti)*
 * Frozen berries
 
 ### Saucy things
-* Vegetable oil *(Satay sauce)*
-* White wine vinegar *(Satay sauce)*
-* Soy sauce *(Satay sauce)*
+* Vegetable oil *(Satay Sauce, Roti)*
+* White wine vinegar *(Satay Sauce)*
+* Soy sauce *(Satay Sauce)*
 
 ### Dried things
 * Your favourite kind of dried pasta
-* White flour *(Lazy sourdough bread)*
-* Whole-wheat flour *(Lazy sourdough bread)*
+* White flour *(Lazy Sourdough Bread)*
+* Whole-wheat flour *(Lazy Sourdough Bread)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
 * Sugar *()*
 * Salt *(Anything - to taste)*
@@ -79,7 +80,7 @@ Make sure you always have plenty of the following ingredients.
 * Sourdough starter *(Lazy sourdough bread)*
 
 ## Equipment
-* Pan *(Satay sauce)* 
+* Pan *(Satay sauce, Roti)* 
 * Pot
 * Sauce pan
 * Baking tin *(Lazy sourdough bread)*
@@ -257,4 +258,14 @@ Make sure you always have plenty of the following ingredients.
 1. Remove bread, add another **teaspoon of garlic** to the pan, add **tomatoes**, **cinnamon**, and **salt to taste**.
 1. After about 3 minutes, pour tomatoe sauce over bread slices.
 
+### Roti with Satay 
+#### Ingredients
+* 1 serving of Satay Sauce
+* 2 sheets of puff pastry
+* Vegetable oil
+
+#### Instructions
+1. Cut **puff pastry** into the shape of your choice, for example little squares.
+1. Fry puff pastry pieces in vegetable oil in a pan until they develop brown spots. The more oil you use the more they puff up.
+1. Heat up **Satay Sauce**. 
 
