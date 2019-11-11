@@ -265,7 +265,7 @@ Make sure you always have plenty of the following ingredients.
 * Vegetable oil
 
 #### Instructions
-1. Cut **puff pastry** into the shape of your choice, for example little squares.
+1. Cut **puff pastry** into the shape of your choice, for example little squares (no particular need to thaw them).
 1. Fry puff pastry pieces in vegetable oil in a pan until they develop brown spots. The more oil you use the more they puff up.
 1. Heat up **Satay Sauce**. 
 
