@@ -4,7 +4,7 @@
 - [x] Quick
 - [x] Healthy (enough)
 
-##### Table of Contents  
+##### Table of Contents
 * [Ingredients](#ingredients)  
   * [Canned Things](#canned-things)  
   * [Frozen Things](#frozen-things)  
@@ -58,6 +58,8 @@ Make sure you always have plenty of the following ingredients.
 * Vegetable oil *(Satay Sauce, Roti)*
 * White wine vinegar *(Satay Sauce)*
 * Soy sauce *(Satay Sauce)*
+* Bottled lemon juice
+* Olive Oil
 
 ### Dried things
 * Your favourite kind of dried pasta
@@ -128,7 +130,7 @@ Make sure you always have plenty of the following ingredients.
 
 ## Dips
 
-### Hummus 
+### Hummus
 
 ### Lentil hummus
 
@@ -137,7 +139,7 @@ Make sure you always have plenty of the following ingredients.
 ### Sun-dried tomato dip
 
 
-## Meals 
+## Meals
 
 ### Satay Veggies
 #### Ingredients
@@ -203,6 +205,20 @@ Make sure you always have plenty of the following ingredients.
 
 ### Broccoli with lemon
 
+#### Ingredients
+
+* Bag of Frozen broccoli
+* Bottled lemon juice
+* Olive oil
+* salt, pepper (to taste)
+* Paprika (optional)
+
+#### Instructions
+
+1. Heat (half a bag) frozen broccoli
+  - Microwave: ~ 5 minutes
+1. Dress with olive oil and lemon juice (to taste)
+1. Season with salt, pepper and paprika to taste
 
 ### Spaghetti Bolognese
 
