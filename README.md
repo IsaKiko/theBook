@@ -34,6 +34,8 @@
 * [Snacks](#snacks)
   * [Almost Bruschetta](#almost-bruschetta)
   * [Roti with Satay](#roti-with-satay)
+* [Deserts](#deserts)
+  * [Cheese Cake](#cheese-cake)
 
 ## Ingredients
 Make sure you always have plenty of the following ingredients. 
@@ -61,13 +63,16 @@ Make sure you always have plenty of the following ingredients.
 * Bottled lemon juice
 * Olive Oil
 
-### Dried things
+### Dry things
 * Your favourite kind of dried pasta
 * White flour *(Lazy Sourdough Bread)*
 * Whole-wheat flour *(Lazy Sourdough Bread)*
+* Nutritional yeast *(Cheese cake)*
+* Cashews *(Cheese cake)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
-* Sugar *()*
+* Sugar *(Cheese cake)*
 * Salt *(Anything - to taste)*
+* Agar *(Cheese cake)*
 
 ### Spice things
 * Minced garlic in a glass *(Satay sauce)* 
@@ -92,6 +97,7 @@ Make sure you always have plenty of the following ingredients.
 * Stove *(all recipes)*
 * Can opener
 * Sieve
+* Blender *(Cheese cake)*
 
 
 
@@ -285,3 +291,19 @@ Make sure you always have plenty of the following ingredients.
 1. Fry puff pastry pieces in vegetable oil in a pan until they develop brown spots. The more oil you use the more they puff up.
 1. Heat up **Satay Sauce**. 
 
+
+## Deserts
+
+### Cheese Cake 
+#### Ingredients
+* 200 g cashews
+* 3 table spoons powdered sugar
+* lemon juice
+* 1 table spoon nutritional yeast
+* some salt
+* 1 teaspoon agar powder
+
+#### Instructions
+1. Put cashews into a blender and cover them with lemon juice and water at a ratio to taste. Add nutritional yeast, surar and salt and blend until smooth.
+1. Add agar to two cups of water, bring to boil, and leave boiling for 2 mintues.
+1. Mix cheese cake paste with agar mix, pour into a pan or plate and cool down in fridge.
