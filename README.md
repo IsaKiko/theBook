@@ -15,6 +15,7 @@
 * [Elemental Recipes](#elemental-recipes)  
   * [Lazy Sourdough Bread](#lazy-sourdough-bread)
   * [Satay Sauce](#satay-sauce)
+  * [Nut Bread](#nut-bread)
 * [Dips](#dips)
   * [Hummus](#hummus)
   * [Lentil Hummus](#lentil-hummis)
@@ -41,13 +42,17 @@
 Make sure you always have plenty of the following ingredients. 
 
 ### Canned things
-* Natural peanut butter (low sugar and sodium) *(Satay sauce)*
-* Light coconut milk *(Satay sauce)*
+* Natural peanut butter (low sugar and sodium) *(Satay Sauce)*
+* Light coconut milk *(Satay Sauce)*
 * Canned diced tomatoes
-* Canned lentils
+* Canned lentils *(Lentil Hummmus)*
 * Canned beans
 * Canned peas
 * Canned corn
+* Canned chickpeas *(Hummmus, Chilli Hummus)*
+
+### Glass things
+* Sundried tomatoes *(Sundried Tomato Dip)*
 
 ### Frozen things
 * Frozen cauliflower 
@@ -60,44 +65,49 @@ Make sure you always have plenty of the following ingredients.
 * Vegetable oil *(Satay Sauce, Roti)*
 * White wine vinegar *(Satay Sauce)*
 * Soy sauce *(Satay Sauce)*
-* Bottled lemon juice
-* Olive Oil
+* Bottled lemon juice  *(Hummmus)*
+* Olive Oil  *(Hummmus)*
 
 ### Dry things
 * Your favourite kind of dried pasta
 * White flour *(Lazy Sourdough Bread)*
 * Whole-wheat flour *(Lazy Sourdough Bread)*
-* Nutritional yeast *(Cheese cake)*
-* Cashews *(Cheese cake)*
+* Nutritional yeast *(Cheese Cake)*
+* Cashews *(Cheese Cake)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
-* Sugar *(Cheese cake)*
+* Sugar *(Cheese Cake, Nut Bread)*
 * Salt *(Anything - to taste)*
-* Agar *(Cheese cake)*
+* Agar *(Cheese Cake)*
+* Ground hazelnuts *(Nut Bread)*
 
 ### Spice things
-* Minced garlic in a glass *(Satay sauce)* 
-* Minced Ginger in a glass *(Satay sauce)*
-* Chilli flakes in oil *(Satay sauce)*
+* Minced garlic in a glass *(Satay Sauce, Hummus)* 
+* Minced Ginger in a glass *(Satay Sauce)*
+* Chilli flakes in oil *(Satay Sauce)*
 * Cumin *()*
 * Cinnamon *()*
 * Paprika *()*
 * Tumeric *()*
+* Chilli powder *(Hummus, Sundried tomato dip)*
 
+### Fresh things
+* Potatoes, sweet potatoes *("Baked" Potato / "Baked" Sweet Potato)*
+ 
 ### Random things
-* Sourdough starter *(Lazy sourdough bread)*
+* Sourdough starter *(Lazy Sourdough Bread)*
 
 ## Equipment
-* Pan *(Satay sauce, Roti)* 
+* Pan *(Satay Sauce, Roti)* 
 * Pot
 * Sauce pan
-* Baking tin *(Lazy sourdough bread)*
-* Pie mold *(Satay veggie pie)*
-* Oven *(Lazy sourdough bread)*
+* Baking tin *(Lazy Sourdough Bread, Nut Bread)*
+* Pie mold *(Satay Veggie Pie)*
+* Oven *(Lazy sourdough bread, Nut Bread)*
 * Microwave *()*
-* Stove *(all recipes)*
-* Can opener
+* Stove
+* Can opener *(Hummus)*
 * Sieve
-* Blender *(Cheese cake)*
+* Blender *(Cheese Cake, Hummus, Sundried Tomato Dip)*
 
 
 
@@ -122,7 +132,7 @@ Make sure you always have plenty of the following ingredients.
 1. Add **coconut milk** and **peanut butter**. Let simmer. 
 1. Finish with **soy sauce** or **salt** and **vinegar**. If it's too thick, add more water.
 
-### Lazy sourdough bread
+### Lazy Sourdough Bread
 #### Ingredients
 * 50g sourdough starter 
 * 300g white flour
@@ -134,16 +144,39 @@ Make sure you always have plenty of the following ingredients.
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 230 degrees Celsius. Put tin into oven and splash half a glass of water into the hot tray at the bottom of the oven. Quickly close the door. Bake for 24 minutes. 
 1. If you don't want to finish a whole bread at once, slice it up and freeze the slices. One quick round in the toaster and the bread tastes nice and fresh. 
 
+### Nut Bread
+#### Ingredients
+* 200g **ground hazelnuts** 
+* 200g **whole-wheat flour**
+* 7g **dry yeast**
+* 1/2 tea spoon **sugar** 
+* **salt** to taste 
+
+#### Instructions
+1. Mix everything with enough water to feel like dough (still a little bit sticky, but turning into one lump). Let sit for 5 hours.
+1. Put a large baking tray into the bottom of the oven and pre-heat oven to 210 degrees Celsius. Bake loaf until it goes brown(er).
+
 ## Dips
 
-### Hummus
+### Hummus / Lentil Hummus / Chilli Hummus
+#### Ingredients
+* 1 can of **chickpeas** or **lentils**
+* 2 table spoons **olive oil**
+* **salt** to taste
+* **garlic** to taste
+* **lemon juice** to taste
+* **chilli powder** to taste
 
-### Lentil hummus
+#### Instructions
+1. Blend
 
-### Chilli hummus
+### Sun-dried Tomato Dip
+#### Ingredients
+* 1 part **sun dried tomatoes in oil** from a glass 
+* 0.5 parts **cashews**
 
-### Sun-dried tomato dip
-
+#### Instructions
+1. Blend
 
 ## Meals
 
@@ -186,19 +219,19 @@ Make sure you always have plenty of the following ingredients.
 
 ### Uni-Pot
 #### Ingredients
-* 4 tea spoons of minced garlic 
-* 1 tea spoon of minced ginger
-* chili to taste
-* vegetable oil for frying
-* 3 table spoons of paprika
-* 2 tea spoons spoon of cumin
-* 3 table spoons of oregano
-* 4 cans of chopped tomatoes
-* 1 can lentils
-* 1 can beans
-* 1 can sliced green beans 
-* 500g frozen cauliflour
-* salt to taste
+* 4 tea spoons of minced **garlic**
+* 1 tea spoon of minced **ginger**
+* **chili** to taste
+* **oil** for frying
+* 3 table spoons of **paprika**
+* 2 tea spoons spoon of **cumin**
+* 3 table spoons of **oregano**
+* 4 cans of **chopped tomatoes**
+* 1 can **lentils**
+* 1 can **beans**
+* 1 can **sliced green beans **
+* 500g frozen **cauliflour**
+* **salt** to taste
 
 #### Instructions
 1. Fry **garlic**, **ginger**, and **chili** in a large pot in some **vegetable oil**.
@@ -209,15 +242,15 @@ Make sure you always have plenty of the following ingredients.
 1. Add **oregano** 5 minutes before you want to eat. Much longer might turn it bitter. 
 1. Tastes nice with some **lazy sourdough bread**.
 
-### Broccoli with lemon
+### Broccoli with Lemon
 
 #### Ingredients
 
-* Bag of Frozen broccoli
-* Bottled lemon juice
-* Olive oil
-* salt, pepper (to taste)
-* Paprika (optional)
+* Bag of frozen **broccoli**
+* Bottled **lemon juice**
+* **Olive oil**
+* **salt**, **pepper** (to taste)
+* **Paprika** (optional)
 
 #### Instructions
 
@@ -225,6 +258,19 @@ Make sure you always have plenty of the following ingredients.
   - Microwave: ~ 5 minutes
 1. Dress with olive oil and lemon juice (to taste)
 1. Season with salt, pepper and paprika to taste
+
+### "Baked" Potato / "Baked" Sweet Potato
+
+#### Ingredients
+
+* A **potato** or **sweet potato**
+* **salt**, **spices** and **olive oil** to taste
+
+#### Instructions
+
+1. Don't bother poking the potato.
+1. Microwave potato, skin and all under a cover (it might explode). Minimum 2 minutes for very small potatoes. Microwave large potatoes 5 minutes at a time, then rotate.
+2. Add salt, spices, and/or olive oil to taste.
 
 ### Spaghetti Bolognese
 
@@ -235,7 +281,7 @@ Make sure you always have plenty of the following ingredients.
 ### Mashed potato
 
 
-### Pancakes with berries 
+### Pancakes with Berries 
 #### Ingredients
 * 100g sourdough starter
 * 100g whole-wheat flour
@@ -249,7 +295,7 @@ Make sure you always have plenty of the following ingredients.
 1. Fry pancakes in a pan with some **oil**.
 
 
-### Oats with berries
+### Oats with Berries
 #### Ingredients
 * Rolled or quick oats
 * 2 table spoons of frozen berries
@@ -265,7 +311,7 @@ Make sure you always have plenty of the following ingredients.
 
 ## Snacks
 
-### Almost bruschetta 
+### Almost Bruschetta 
 #### Ingredients
 * 3 table spoons of oil
 * 3 teaspoons minced garlic
