@@ -16,7 +16,6 @@
   * [Lazy Sourdough Bread](#lazy-sourdough-bread)
   * [Satay Sauce](#satay-sauce)
   * [Nut Bread](#nut-bread)
-  * [Cashew Milk](#cashew-milk)
 * [Dips](#dips)
   * [Hummus](#hummus)
   * [Sun-dried Tomato Dip](#sun-dried-tomato-dip)
@@ -36,6 +35,9 @@
   * [Roti with Satay](#roti-with-satay)
 * [Deserts](#deserts)
   * [Cheese Cake](#cheese-cake)
+* [Drinks](#drinks)
+  * [Cashew Milk](#cashew-milk)
+  * [Apple and celery juice](#apple-and-celery-juice)
 
 ## Ingredients
 Make sure you always have plenty of the following ingredients. 
@@ -59,6 +61,7 @@ Make sure you always have plenty of the following ingredients.
 * Frozen brussles sprouts
 * Puff pastry (the cheap one is likely vegan) *(Roti)*
 * Frozen berries
+* Frozen strawberries *(Apple and Celery Juice)*
 
 ### Saucy things
 * Vegetable oil *(Satay Sauce, Roti)*
@@ -91,6 +94,8 @@ Make sure you always have plenty of the following ingredients.
 
 ### Fresh things
 * Potatoes, sweet potatoes *("Baked" Potato / "Baked" Sweet Potato)*
+* Apples *(Apple and Celery Juice)*
+* Celery *(Apple and Celery Juice)*
  
 ### Random things
 * Sourdough starter *(Lazy Sourdough Bread)*
@@ -154,17 +159,6 @@ Make sure you always have plenty of the following ingredients.
 #### Instructions
 1. Mix all ingredients with enough water to feel like dough (still a little bit sticky, but turning into one lump). Let sit for 5 hours.
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 210 degrees Celsius. Bake loaf until it goes brown(er).
-
-
-### Cashew Milk
-#### Ingredients
-* 20 **cashews**
-* 500ml **water**
-* a pinch **nutritional yeast**
-
-#### Instructions
-
-1. Blend everyting until smooth (shouldn't take longer than a minute).
 
 ## Dips
 
@@ -254,7 +248,6 @@ Make sure you always have plenty of the following ingredients.
 1. Tastes nice with some **lazy sourdough bread**.
 
 ### Broccoli with Lemon
-
 #### Ingredients
 
 * Bag of frozen **broccoli**
@@ -355,12 +348,34 @@ Make sure you always have plenty of the following ingredients.
 #### Ingredients
 * 200 g **cashews**
 * 3 table spoons **powdered sugar**
-* **lemon juice**
+* **Lemon juice**
 * 1 table spoon **nutritional yeast**
-* some **salt**
+* Some **salt**
 * 1 teaspoon **agar** powder
 
 #### Instructions
 1. Put **cashews** into a blender and cover them with **lemon juice** and water at a ratio to taste. Add **nutritional yeast**, **sugar** and **salt** and blend until smooth.
 1. Add **agar** to two cups of **water**, bring to boil, and leave boiling for 2 mintues.
 1. Mix cheese cake paste with agar mix, pour into a pan or plate and cool down in fridge.
+
+
+## Drinks
+
+### Cashew Milk
+#### Ingredients
+* 20 **cashews**
+* 500ml **water**
+* a pinch **nutritional yeast**
+
+#### Instructions
+1. Blend everyting until smooth (shouldn't take longer than a minute).
+
+### Apple and Celery Juice 
+#### Ingredients
+* 5 parts **apple**
+* 3 parts **celery**
+* 2 parts frozen **strawberries** (or any other frozen fruit. Also work great with frozen passion fruit.)
+
+#### Instructions
+1. Chop **apple** and break **celery** up
+1. Add all ingredients + water to a blender cup and blend until smooth.
