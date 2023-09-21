@@ -16,10 +16,9 @@
   * [Lazy Sourdough Bread](#lazy-sourdough-bread)
   * [Satay Sauce](#satay-sauce)
   * [Nut Bread](#nut-bread)
+  * [Cashew Milk](#cashew-milk)
 * [Dips](#dips)
   * [Hummus](#hummus)
-  * [Lentil Hummus](#lentil-hummis)
-  * [Chilli Hummus](#chilli-hummus)
   * [Sun-dried Tomato Dip](#sun-dried-tomato-dip)
 * [Meals](#meals)
   * [Satay Veggies](#satay-veggies)
@@ -72,8 +71,8 @@ Make sure you always have plenty of the following ingredients.
 * Your favourite kind of dried pasta
 * White flour *(Lazy Sourdough Bread)*
 * Whole-wheat flour *(Lazy Sourdough Bread)*
-* Nutritional yeast *(Cheese Cake)*
-* Cashews *(Cheese Cake)*
+* Nutritional yeast *(Cheese Cake, Cashew Milk)*
+* Cashews *(Cheese Cake, Cashew Milk)*
 * Vitamin B12 tablets or a multivitamin *(Vegans need B12)*
 * Sugar *(Cheese Cake, Nut Bread)*
 * Salt *(Anything - to taste)*
@@ -103,8 +102,8 @@ Make sure you always have plenty of the following ingredients.
 * Baking tin *(Lazy Sourdough Bread, Nut Bread)*
 * Pie mold *(Satay Veggie Pie)*
 * Oven *(Lazy sourdough bread, Nut Bread)*
-* Microwave *()*
-* Stove
+* Microwave *("Baked" Potato / "Baked" Sweet Potato)*
+* Stove *(Satay Sauce)*
 * Can opener *(Hummus)*
 * Sieve
 * Blender *(Cheese Cake, Hummus, Sundried Tomato Dip)*
@@ -134,9 +133,9 @@ Make sure you always have plenty of the following ingredients.
 
 ### Lazy Sourdough Bread
 #### Ingredients
-* 50g sourdough starter 
-* 300g white flour
-* 200g whole-wheat flour
+* 50g **sourdough starter**
+* 300g **white flour**
+* 200g **whole-meal flour**
 
 #### Instructions
 1. In the morning, mix **sourdough starter** with **50g white flour** and **50g water**. Let sit for at leat 5 hours. 
@@ -153,12 +152,24 @@ Make sure you always have plenty of the following ingredients.
 * **salt** to taste 
 
 #### Instructions
-1. Mix everything with enough water to feel like dough (still a little bit sticky, but turning into one lump). Let sit for 5 hours.
+1. Mix all ingredients with enough water to feel like dough (still a little bit sticky, but turning into one lump). Let sit for 5 hours.
 1. Put a large baking tray into the bottom of the oven and pre-heat oven to 210 degrees Celsius. Bake loaf until it goes brown(er).
+
+
+### Cashew Milk
+#### Ingredients
+* 20 **cashews**
+* 500ml **water**
+* a pinch **nutritional yeast**
+
+#### Instructions
+
+1. Blend everyting until smooth (shouldn't take longer than a minute).
 
 ## Dips
 
-### Hummus / Lentil Hummus / Chilli Hummus
+### Hummus
+(Normal Hummus, Lentil Hummus, Chilli Hummus)
 #### Ingredients
 * 1 can of **chickpeas** or **lentils**
 * 2 table spoons **olive oil**
@@ -182,32 +193,32 @@ Make sure you always have plenty of the following ingredients.
 
 ### Satay Veggies
 #### Ingredients
-* One serving of satay sauce
-* Half a bag of cauliflour
-* One can of corn 
+* One serving of [satay sauce](#satay-sauce)
+* Half a bag of **cauliflour**
+* One can of **corn**
 
 #### Instructions
-1. Make satay sauce.
-1. Thaw cauliflour in microwave (for roughly 2 minutes) or boil in water (also roughly 2 minutes).
+1. Make **satay sauce**.
+1. Thaw **cauliflour** in microwave (for roughly 2 minutes) or boil in water (also roughly 2 minutes).
 1. Mix everything in pan until hot.
 
 
 ### Satay Veggie Pasta
 #### Ingredients
-* One serving of satay veggies 
-* Pasta
+* One serving of [satay veggies](#satay-veggies) 
+* **Pasta**
 
-1. Make satay veggies. 
-1. Make pasta.
+1. Make **satay veggies**. 
+1. Make **pasta**.
 1. Mix.
 
 ### Satay Veggie Pie
 #### Ingredients
-* One serving of satay veggies 
-* 2 sheets of puff pastry 
+* One serving of [satay veggies](#satay-veggies) 
+* 2 sheets of **puff pastry** 
 
 #### Instructions
-1. Make satay veggies. 
+1. Make **satay veggies**. 
 1. Thaw **2 sheets of puff pastry**.
 1. Lay one sheet of pastry in the bottom of the mold. 
 1. Cut out of the other sheet the largest circle you can (i.e. cut off the 4 corners).
@@ -249,15 +260,15 @@ Make sure you always have plenty of the following ingredients.
 * Bag of frozen **broccoli**
 * Bottled **lemon juice**
 * **Olive oil**
-* **salt**, **pepper** (to taste)
+* **Salt**, **pepper** (to taste)
 * **Paprika** (optional)
 
 #### Instructions
 
-1. Heat (half a bag) frozen broccoli
+1. Heat (half a bag) frozen **broccoli**
   - Microwave: ~ 5 minutes
-1. Dress with olive oil and lemon juice (to taste)
-1. Season with salt, pepper and paprika to taste
+1. Dress with **olive oil** and **lemon juice **(to taste)
+1. Season with **salt**, **pepper** and **paprika** to taste
 
 ### "Baked" Potato / "Baked" Sweet Potato
 
@@ -269,8 +280,8 @@ Make sure you always have plenty of the following ingredients.
 #### Instructions
 
 1. Don't bother poking the potato.
-1. Microwave potato, skin and all under a cover (it might explode). Minimum 2 minutes for very small potatoes. Microwave large potatoes 5 minutes at a time, then rotate.
-2. Add salt, spices, and/or olive oil to taste.
+1. Microwave **potato**, skin and all under a cover (it might explode). Minimum 2 minutes for very small potatoes. Microwave large potatoes 5 minutes at a time, then rotate.
+2. Add **salt**, **spices**, and/or **olive oil** to taste.
 
 ### Spaghetti Bolognese
 
@@ -283,11 +294,11 @@ Make sure you always have plenty of the following ingredients.
 
 ### Pancakes with Berries 
 #### Ingredients
-* 100g sourdough starter
-* 100g whole-wheat flour
-* Some frozen berries
-* Sugar to taste
-* Some vegetable oil for frying
+* 100g **sourdough starter**
+* 100g **whole-meal flour**
+* Some frozen **berries**
+* **Sugar** to taste
+* Some **oil** for frying
 
 1. Mix **sourdough starter** with **whole-wheat flour** and **200g water**.
 1. Add **sugar** to taste.
@@ -297,28 +308,28 @@ Make sure you always have plenty of the following ingredients.
 
 ### Oats with Berries
 #### Ingredients
-* Rolled or quick oats
-* 2 table spoons of frozen berries
-* Soy milk 
-* Cinnamon
+* Rolled or quick **oats**
+* 2 table spoons of frozen **berries**
+* **Plant-based milk** 
+* **Cinnamon**
 
 #### Instructions
 1. Put **frozen berries** small bowl or mug and microwave for roughly 40 seconds.
-1. Layer **oats** and warm berries by filling half of a breakfast bowl with **oats**, adding warm berries, then filling the bowl with more **oats**.  Add **soy milk** to the bowl until you can see the level of milk just below the top of the oats. 
+1. Layer **oats** and warm berries by filling half of a breakfast bowl with **oats**, adding warm berries, then filling the bowl with more **oats**.  Add **plant-based milk** to the bowl until you can see the level of milk just below the top of the oats. 
 1. Microwave for roughly 1 minute 20 seconds. 
-1. Add cinnamon.
+1. Add **cinnamon**.
 
 
 ## Snacks
 
 ### Almost Bruschetta 
 #### Ingredients
-* 3 table spoons of oil
-* 3 teaspoons minced garlic
-* 4 slices of bread
-* One can of diced tomatoes
-* 1/2 teaspoon of cinnamon
-* Salt to taste
+* 3 table spoons of **oil**
+* 3 teaspoons minced **garlic**
+* 4 slices of **bread**
+* One can of **diced tomatoes**
+* 1/2 teaspoon of **cinnamon**
+* **Salt** to taste
 
 #### Instructions
 1. Fry **2 teaspoons of garlic** in **oil** until it starts turing brown.
@@ -328,13 +339,13 @@ Make sure you always have plenty of the following ingredients.
 
 ### Roti with Satay 
 #### Ingredients
-* 1 serving of Satay Sauce
-* 2 sheets of puff pastry
-* Vegetable oil
+* 1 serving of [Satay Sauce](#satay-sauce)
+* 2 sheets of **puff pastry**
+* **oil**
 
 #### Instructions
 1. Cut **puff pastry** into the shape of your choice, for example little squares (no particular need to thaw them).
-1. Fry puff pastry pieces in vegetable oil in a pan until they develop brown spots. The more oil you use the more they puff up.
+1. Fry puff pastry pieces in **oil** in a pan until they develop brown spots. The more oil you use the more they puff up.
 1. Heat up **Satay Sauce**. 
 
 
@@ -342,14 +353,14 @@ Make sure you always have plenty of the following ingredients.
 
 ### Cheese Cake 
 #### Ingredients
-* 200 g cashews
-* 3 table spoons powdered sugar
-* lemon juice
-* 1 table spoon nutritional yeast
-* some salt
-* 1 teaspoon agar powder
+* 200 g **cashews**
+* 3 table spoons **powdered sugar**
+* **lemon juice**
+* 1 table spoon **nutritional yeast**
+* some **salt**
+* 1 teaspoon **agar** powder
 
 #### Instructions
-1. Put cashews into a blender and cover them with lemon juice and water at a ratio to taste. Add nutritional yeast, surar and salt and blend until smooth.
-1. Add agar to two cups of water, bring to boil, and leave boiling for 2 mintues.
+1. Put **cashews** into a blender and cover them with **lemon juice** and water at a ratio to taste. Add **nutritional yeast**, **sugar** and **salt** and blend until smooth.
+1. Add **agar** to two cups of **water**, bring to boil, and leave boiling for 2 mintues.
 1. Mix cheese cake paste with agar mix, pour into a pan or plate and cool down in fridge.
